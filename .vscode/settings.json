@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "includes.h": "c",
+        "qr_encode.h": "c",
+        "FSMC_NORFlash.C": "cpp",
+        "image_const.h": "c",
+        "dot_lib.h": "c",
+        "qrencode.h": "c",
+        "infoimage_lib.h": "c"
+    }
+}
